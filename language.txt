@@ -1,0 +1,4 @@
+1. My favorite language is C. I like C because it supports a lot of features for interacting with the system that high-level languages don't support.
+2. Actually no. My most experienced language is py and I used it for building servers and I can do many jobs real quick.
+
+Partner: Ken
